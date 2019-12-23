@@ -5,14 +5,5 @@
 汉服
 中山装
 白人装
-<<<<<<< HEAD
 测试rebase 1
-=======
-<<<<<<< HEAD
-测试rebase 1
-=======
-测试rebase 1
-测试rebase 2
-测试rebase 3
->>>>>>> 90ef251... 测试rebase3
->>>>>>> 测试rebase3
+
